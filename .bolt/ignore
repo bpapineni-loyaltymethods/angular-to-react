@@ -1,0 +1,10 @@
+src/assets/*
+src/environments/*
+src/styles/*
+src/app/classes/*
+src/app/constants/*
+src/app/enums/*
+src/app/models/*
+src/app/hooks/*
+src/app/redux/*
+src/app/types/*
